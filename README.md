@@ -1,4 +1,4 @@
--CORE
+Public Git Gubbins
 =====
 
-Core Utilities
+The Big Git Playground
