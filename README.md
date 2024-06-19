@@ -1,4 +1,4 @@
-Public Git Gubbins
+Public Git Samples
 =====
 
-The Big Git Playground
+The Big Git Playground for https://www.projex4i.com
